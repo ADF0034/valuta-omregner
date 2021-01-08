@@ -1,0 +1,15 @@
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\bin\Debug\Value omregner.exe.config
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\bin\Debug\Value omregner.exe
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\bin\Debug\Value omregner.pdb
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner.csprojAssemblyReference.cache
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\MainWindow.g.cs
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\App.g.cs
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner_MarkupCompile.cache
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner_MarkupCompile.lref
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\MainWindow.baml
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner.g.resources
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value_omregner.Properties.Resources.resources
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner.csproj.GenerateResource.cache
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner.exe
+C:\Users\Bruger\source\repos\Value omregner\Value omregner\obj\Debug\Value omregner.pdb
